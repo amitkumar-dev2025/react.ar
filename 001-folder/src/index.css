@@ -1,0 +1,116 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'helvetica neue';
+color: #fff;
+}
+body{
+     background-color:#111;
+
+}
+
+
+
+
+.parent{
+  padding: 20px;
+  display:flex;
+  /* align-items: center; */
+  flex-wrap: wrap;
+  gap:20px;
+}
+.card{
+    width: 200px;
+    border: 2px solid white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #222;
+}
+
+.card img{
+  height: 140px;
+  width: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+
+
+
+.card p{
+  margin: 20px 0;
+}
+
+.card button{
+  padding: 10px 20px;
+  background-color:white;
+  color:black;
+  border: none;
+  border-radius: 5px;
+
+}
+
+.carda{
+    width: 200px;
+    border: 2px solid white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #222;
+}
+
+.carda img{
+  height: 140px;
+  width: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+
+
+
+.carda p{
+  margin: 20px 0;
+}
+
+.carda button{
+  padding: 10px 20px;
+  background-color:white;
+  color:black;
+  border: none;
+  border-radius: 5px;
+
+}
+.cardb{
+    width: 200px;
+    border: 2px solid white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #222;
+}
+
+.cardb img{
+  height: 140px;
+  width: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+
+
+
+.cardb p{
+  margin: 20px 0;
+}
+
+.cardb button{
+  padding: 10px 20px;
+  background-color:white;
+  color:black;
+  border: none;
+  border-radius: 5px;
+
+}
